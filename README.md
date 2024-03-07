@@ -1,3 +1,3 @@
-# Capstone_Project_Global-Terrorism-Dataset
+# Global-Terrorism-Dataset-Project
 The Global Terrorism dataset is a comprehensive collection of information about terrorist attacks worldwide. This exploratory data analysis (EDA) project aims to analyze the dataset, uncover patterns and trends, and gain insights into the nature of global terrorism. 
 The analysis of the Global Terrorism dataset also contributes to the development of effective counter-terrorism strategies. By understanding the underlying factors driving terrorism, policymakers can design targeted interventions and preventive measures to mitigate the risk and impact of terrorist activities.
